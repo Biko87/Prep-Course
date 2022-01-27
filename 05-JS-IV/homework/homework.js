@@ -16,7 +16,6 @@ function crearGato(nombre, edad) {
   return obj;
 }
 
-}
 
 
 function agregarPropiedad(objeto, property) {
